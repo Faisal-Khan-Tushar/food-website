@@ -6,6 +6,7 @@ body{
   display:flex;
   margin-top:20px;
   margin-bottom:100px;
+
   
 }
 .half-width{
@@ -20,6 +21,7 @@ body{
 }
 .half-width-image{
   width:80%;
+  
  
 }
 #welcome-title{
@@ -27,7 +29,7 @@ body{
   font-size:50px;
   
 }
-#color{
+.color{
   color:orangered;
 }
 p{
@@ -35,7 +37,7 @@ p{
   color:slategray;
 }
 /* we will come back here for the image part*/
-#first-button{
+.first-button{
   display:inline-block;
   margin-top:20px;
   text-decoration:none;
@@ -46,5 +48,24 @@ p{
   border-radius:20px;
   border:2px solid;
   
+}
+/*end of the first section */
+.second-container{
+  
+  background-image:url(images/shapes/Frame\ 57.jpg);
+  background-repeat:no-repeat;
+  margin-bottom:200px;
+  
+ 
+}
+#second-image{
+  width:50%;
+  padding:0px 150px;
+  
+
+}
+#second-text{
+  padding:50px 40px;
+ 
 }
   
