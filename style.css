@@ -1,6 +1,7 @@
 body{
   font-family: 'Roboto Mono', monospace;
   margin:0;
+  
 }
 .flag-container{
   display:flex;
@@ -130,7 +131,7 @@ p,li{
 .review{
   margin-top:100px;
   margin-bottom:100px;
-  border:2px solid;
+
 
 }
 #seclector{
@@ -152,10 +153,15 @@ p,li{
  font-size:30px;
 }
 /*end of fifth section */
+#footer-container{
+ 
+  border:2px solid;
+}
 .footer{
   
   background:black;
   padding:30px;
+  
 
 }
 .footer-text{
