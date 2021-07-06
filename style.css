@@ -54,7 +54,7 @@ p{
   
   background-image:url(images/shapes/Frame\ 57.jpg);
   background-repeat:no-repeat;
-  margin-bottom:200px;
+  margin-bottom:100px;
   
  
 }
@@ -68,4 +68,14 @@ p{
   padding:50px 40px;
  
 }
+
+/*end of second section*/
+.third-container{
   
+  
+}
+.recipie-text{
+  text-align:center;
+  margin-bottom:20px;
+}
+
