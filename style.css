@@ -137,7 +137,8 @@ p,li{
 
 }
 #seclector{
-  
+  display:flex;
+  text-align:center;
   margin:50px 950px;
   height:200px;
  
@@ -165,7 +166,8 @@ footer{
   color:white;
 }
 .footer-container{
-  padding:10px 50px;
+  padding:10px;
   text-align:center;
   height:180px;
+  margin-bottom:-100px;
 }
