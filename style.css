@@ -26,13 +26,13 @@ body{
 }
 #welcome-title{
   color:#333;
-  font-size:50px;
+  font-size:20px;
   
 }
 .color{
   color:orangered;
 }
-p{
+p,li{
   font-size:20px;
   color:slategray;
 }
@@ -120,9 +120,12 @@ p{
 }
 /*end of third section*/
 .keto{
-  border:2px solid;
+  
   margin-top:100px;
+  padding-top:100px;
+  padding-bottom:100px;
 }
+
 /*end of fourth section */
 .review{
   margin-top:100px;
@@ -139,6 +142,10 @@ p{
 .customer-opinion{
   text-align:center;
   color:palevioletred;
+  
 
 
+}
+.key{
+ font-size:30px;
 }
