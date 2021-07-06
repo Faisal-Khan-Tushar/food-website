@@ -92,8 +92,8 @@ p,li{
 }
 .first-image-container{
     display:block;
-    height:400px;
-    width:300px;
+    height:80%;
+    width:15%;
     margin-left:550px;
 
     border-radius:20px;
@@ -140,8 +140,9 @@ p,li{
 #seclector{
   display:flex;
   text-align:center;
-  margin:50px 950px;
-  height:200px;
+  margin:0% 45%;
+  height:5%;
+  width:10%;
  
 
 
