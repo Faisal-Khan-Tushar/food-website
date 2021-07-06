@@ -93,7 +93,7 @@ p,li{
     display:block;
     height:400px;
     width:300px;
-    margin-left:475px;
+    margin-left:550px;
 
     border-radius:20px;
     text-align:center;
@@ -123,9 +123,11 @@ p,li{
 .keto{
   
   margin-top:100px;
+  margin-left:40px;
   padding-top:100px;
   padding-bottom:100px;
 }
+
 
 /*end of fourth section */
 .review{
@@ -137,14 +139,16 @@ p,li{
 #seclector{
   display:flex;
   text-align:center;
-  margin:50px 850px;
+  margin:50px 950px;
   height:200px;
+ 
 
 
 }
 .customer-opinion{
   text-align:center;
   color:palevioletred;
+  
   
 
 
@@ -153,22 +157,16 @@ p,li{
  font-size:30px;
 }
 /*end of fifth section */
-#footer-container{
- 
-  border:2px solid;
-}
-.footer{
-  
-  background:black;
-  padding:30px;
-  
-
-}
-.footer-text{
-  text-align:center;
-
+footer{
+  background-color:black;
   
 }
-.coloring{
+.footer-text-color{
+  
   color:white;
+}
+.footer-container{
+  padding:10px 50px;
+  text-align:center;
+  height:180px;
 }
